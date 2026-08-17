@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Shekinah, I'm a sophomore studying ECE and Data Science @ Rice University | Building intelligent systems across AI, software, and embedded hardware | Python • C++ • Computer Vision • Edge AI
 <!--
 **shekinahokunbo/shekinahokunbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
