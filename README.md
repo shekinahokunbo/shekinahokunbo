@@ -1,13 +1,14 @@
 # Shekinah Okunbo
 
-![Typing SVG](https://demolab.com)
+![Typing SVG](https://herokuapp.com)
 
 Electrical and Computer Engineering sophomore at Rice University (Data Science minor, class of 2029). I build performance-critical systems in C++ and CUDA and measure what they do.
 
 ### 📊 Hardware & Metrics Tracker
-
-[![Top Languages](https://vercel.app)](https://github.com)
-[![GitHub Stats](https://vercel.app)](https://github.com)
+<p align="left">
+  <img src="https://vercel.app" alt="Top Languages" width="45%" />
+  <img src="https://vercel.app" alt="GitHub Stats" width="45%" />
+</p>
 
 ### Selected work
 - **[WarpServe](https://github.com)**: a hand-written CUDA kernel that fuses image resize, normalization and layout conversion, 127x faster than a scalar CPU reference on an NVIDIA T4 with bit-identical output; served with FastAPI, Docker and Kubernetes.
