@@ -1,6 +1,6 @@
 ## Shekinah Okunbo
 
-Electrical and Computer Engineering sophomore at Rice University (Data Science minor, class of 2029). I build performance-critical systems in C++ and CUDA and measure what they do.
+Electrical and Computer Engineering sophomore at Rice University (Data Science minor). I build performance-critical systems in C++ and CUDA and measure what they do.
 
 ### Selected work
 
